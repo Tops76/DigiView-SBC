@@ -1,3 +1,5 @@
+This version of hello_video is modified to allow to rotate and resize the video stream.
+
 This version of hello_video is modified to allow for live video streaming via H.264. 
 
 Thanks to [befinitiv](https://github.com/befinitiv)
