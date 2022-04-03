@@ -1,4 +1,4 @@
-This version of hello_video is modified to allow to rotate and resize the video stream.
+Modified version of hello_video that allow the rotation (and scale) of the H.264 video stream. Made for the DJI FVP video out.
 
 Rotation (CW) : 
 - n: no rotation
@@ -9,7 +9,7 @@ Rotation (CW) :
 usage rotate stream right (90°) :
 > hello_video.bin r
 
-usage no rotation 100px top, 100px left and 300px with (maintain aspect ratio)
+usage no rotation 100px top, 100px left and 300px width (maintain aspect ratio)
 > hello_video.bin n 100 100 300
 
 This version of hello_video is modified to allow for live video streaming via H.264. 
